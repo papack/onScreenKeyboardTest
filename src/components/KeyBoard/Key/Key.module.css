@@ -1,0 +1,8 @@
+.container {
+    background-color:darkgray;
+    border: 2px solid black;
+    padding: 20px;
+    cursor: pointer;
+    user-select: none;
+    border-radius: 8px;
+}
